@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シースルーバングに誘われて",
+  "base_artist": "ポラライト",
+  "createdAt": "2025-12-27T11:27:06.127977Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シースルーバングに誘われて",
+      "artist": "ポラライト",
+      "has_synced": false,
+      "path": "select/pl_01_シースルーバングに誘われて_ポラライト.txt"
+    }
+  ]
+}
